@@ -1,0 +1,1 @@
+from .qrdetector import *
